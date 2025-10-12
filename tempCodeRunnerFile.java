@@ -1,0 +1,1 @@
+ // System.out.println("Age of student: " +s1.age);
