@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class MultiExceptionDemo {
     public static void main(String[] args) {
         
@@ -28,3 +29,6 @@ public class MultiExceptionDemo {
         System.out.println("\nProgram continues after handling exceptions.");
     }
 }
+=======
+ // System.out.println("Age of student: " +s1.age);
+>>>>>>> d18ef7ec411c32cd677333d8dbfb0e145f4393a9
